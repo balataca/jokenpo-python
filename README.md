@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este exercício consiste em implementar um jogo de pedra, papel e tesoura de dois jogadores. Você irá precisar coletar a escolha de cada jogador, fazer uma comparação e imprimir na tela qual jogador ganhou.
+Este exercício consiste em implementar um jogo de pedra, papel e tesoura de dois jogadores. Você irá precisar fazer uma comparação na função `compareChoices` e retornar uma das três opções "Jogador 1 ganhou!", "Jogador 2 ganhou!", "empate".
 
 ## Pseudo código
 
@@ -21,6 +21,8 @@ Este pseudo-código tem o intuito de ajudar a implementar as regras do jogo. Por
   - "Jogador 2 ganhou!"
 - Se ambos os inputs forem iguais retornar:
   - "empate"
+
+[Regras do Jogo](https://pt.wikipedia.org/wiki/Pedra,_papel_e_tesoura#Regras)
 
 ## Desafio
 
