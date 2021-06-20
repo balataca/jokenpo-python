@@ -11,6 +11,7 @@ Este pseudo-código tem o intuito de ajudar a implementar as regras do jogo. Por
 - Início do programa
 - Coleta o input do jogador 1
 - Coleta o input do jogador 2
+- Valida o input sendo "pedra", "papel" ou "tesoura"
 - Compara os inputs para definir o vencedor:
   - Pedra ganha de tesoura
   - Tesoura ganha de papel
