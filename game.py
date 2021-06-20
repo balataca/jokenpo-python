@@ -27,3 +27,6 @@ def startGame():
     print('Jogador 2:')
     player2 = input()
     validateInput(player1, player2)
+
+if __name__ == "__main__":
+    startGame()
