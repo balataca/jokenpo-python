@@ -1,7 +1,5 @@
 # Pedra, papel e tesoura
 
-## Descrição
-
 Este exercício consiste em implementar um jogo de pedra, papel e tesoura de dois jogadores. Você irá precisar fazer uma comparação na função `compareChoices` e retornar uma das três opções "Jogador 1 ganhou!", "Jogador 2 ganhou!", "empate".
 
 ## Pseudo código
